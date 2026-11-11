@@ -14,3 +14,6 @@ I'm Matin — a backend developer focused on Python, at the beginning of my jour
 
 ### 🌱 Currently
 Looking for my first junior backend role.
+
+### 📬 Contact
+- Email: matinfatemi528@gmail.com
