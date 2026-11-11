@@ -17,3 +17,4 @@ Looking for my first junior backend role.
 
 ### 📬 Contact
 - Email: matinfatemi528@gmail.com
+- LinkedIn: [linkedin.com/in/matin-fatemi-a19b7b44a](https://www.linkedin.com/in/matin-fatemi-a19b7b44a)
